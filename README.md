@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MikelikesCode123
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking for some help about my Programming
